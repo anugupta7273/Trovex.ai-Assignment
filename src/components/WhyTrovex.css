@@ -1,0 +1,69 @@
+.why-trovex {
+    padding: 40px;
+    background-color: #2d0a63;
+    color: #fff;
+    text-align: center;
+  }
+  
+  .why-trovex h2 {
+    font-size: 2rem;
+    margin-bottom: 20px;
+  }
+  
+  .why-trovex p {
+    margin-bottom: 40px;
+  }
+  
+  .features {
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 40px;
+  }
+  
+  .feature {
+    background-color: #ff4b2b;
+    padding: 20px;
+    border-radius: 10px;
+    width: 30%;
+  }
+  
+  .feature h3 {
+    color: #fff;
+  }
+  
+  .testimonials {
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 40px;
+  }
+  
+  .testimonial {
+    background-color: #3d1d7d;
+    padding: 20px;
+    border-radius: 10px;
+    width: 45%;
+  }
+  
+  .testimonial p {
+    margin-bottom: 10px;
+  }
+  
+  .trusted-brands {
+    margin-bottom: 20px;
+  }
+  
+  .trusted-brands p {
+    font-size: 1.2rem;
+  }
+  
+  .brands {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+  }
+  
+  .brands img {
+    max-width: 100px;
+    margin: 0 10px;
+  }
+  

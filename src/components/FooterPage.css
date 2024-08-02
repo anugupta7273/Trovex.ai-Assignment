@@ -1,0 +1,62 @@
+ .homepage {
+    font-family: Arial, sans-serif;
+}
+.hero-section {
+    background-color: #f9f9f9;
+    padding: 50px;
+    text-align: center;
+}
+.hero-section h1 {
+    font-size: 2em;
+    margin-bottom: 20px;
+}
+.hero-section p {
+    font-size: 1.2em;
+    margin-bottom: 30px;
+}
+.demo-button {
+    background: linear-gradient(90deg, #a836d3 0%, #ff695e 100%);
+    color: white;
+    border: none;
+    padding: 15px 30px;
+    font-size: 1em;
+    cursor: pointer;
+    border-radius: 5px;
+}
+.footer {
+    background-color: #4e008e;
+    color: white;
+    padding: 20px 0;
+    text-align: center;
+}
+.footer-content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+.footer-logo {
+    font-size: 1.5em;
+    font-weight: bold;
+}
+.footer-nav a {
+    margin: 0 10px;
+    color: white;
+    text-decoration: none;
+}
+.footer-bottom {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 1200px;
+    margin: 20px auto 0;
+    padding: 0 20px;
+}
+.social-icons a {
+    margin: 0 5px;
+    color: white;
+    font-size: 1.2em;
+    text-decoration: none;
+}
